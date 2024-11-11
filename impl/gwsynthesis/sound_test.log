@@ -1,0 +1,110 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\I2C_Init_Dev.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\WM8960_Init.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\advanced_fir_filter\advanced_fir_filter.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\async_fifo.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\async_fifo_ctrl.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\chorus_ram\chorus_ram.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\dpram.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\echo.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer\equalizer.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_ne\equalizer_ne.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_po\equalizer_po.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fft\fft.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_base.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_inst.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\gowin_pll\gowin_pll.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\gowin_sdpb\gowin_sdpb.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2c_bit_shift.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2c_control.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_rx.v'
+Undeclared symbol 'adcfifo_full', assumed default net type 'wire'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_rx.v":131)
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_tx.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\interleaver.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_eq.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_fft.v'
+Undeclared symbol 'opd', assumed default net type 'wire'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_fft.v":21)
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\reverb.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd2fifo\sd2fifo.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd_reader.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sdcmd_ctrl.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_pc.v'
+Undeclared symbol 'tx_data_ready', assumed default net type 'wire'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_pc.v":194)
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_rx.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_test.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_tx.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\wav_read.v'
+Analyzing Verilog file 'C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\wm8960_init_table.v'
+WARN  (EX3073) : Port 'card_type' remains unconnected for this instance("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":124)
+Compiling module 'top'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":1)
+Compiling module 'sd_reader'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd_reader.v":10)
+Compiling module 'sdcmd_ctrl'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sdcmd_ctrl.v":10)
+WARN  (EX3670) : Actual bit length 8 differs from formal bit length 4 for port 'card_stat'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":114)
+Compiling module 'wav_read'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\wav_read.v":1)
+Compiling module 'sd2fifo'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd2fifo\sd2fifo.v":676)
+Compiling module '**'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd2fifo\sd2fifo.v":675)
+Compiling module 'Gowin_PLL'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\gowin_pll\gowin_pll.v":10)
+Compiling module 'WM8960_Init'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\WM8960_Init.v":17)
+Compiling module 'I2C_Init_Dev'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\I2C_Init_Dev.v":16)
+Compiling module 'wm8960_init_table'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\wm8960_init_table.v":16)
+Compiling module 'i2c_control'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2c_control.v":16)
+Compiling module 'i2c_bit_shift'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2c_bit_shift.v":16)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'rdreg_req'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\I2C_Init_Dev.v":124)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'addr_mode'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\I2C_Init_Dev.v":126)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 16("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":213)
+Compiling module 'my_echo'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\echo.v":1)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 15("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\echo.v":33)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 16("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\echo.v":57)
+Compiling module 'Gowin_SDPB'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\gowin_sdpb\gowin_sdpb.v":10)
+Compiling module 'Reverb'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\reverb.v":1)
+Compiling module 'my_eq'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_eq.v":1)
+Compiling module 'Equalizer_Po'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_po\equalizer_po.v":15992)
+Compiling module '**'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_po\equalizer_po.v":15991)
+Compiling module 'Equalizer_Ne'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_ne\equalizer_ne.v":15992)
+Compiling module '**'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_ne\equalizer_ne.v":15991)
+WARN  (EX3670) : Actual bit length 19 differs from formal bit length 16 for port 'din'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_eq.v":171)
+WARN  (EX3670) : Actual bit length 19 differs from formal bit length 16 for port 'din'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_eq.v":185)
+WARN  (EX3670) : Actual bit length 19 differs from formal bit length 16 for port 'din'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_eq.v":199)
+Compiling module 'fir_inst'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_inst.v":18)
+Compiling module 'fir_base(COEF_BITS=12,EXTEND_BITS=4)'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_base.v":17)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 28("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_base.v":59)
+WARN  (EX3670) : Actual bit length 12 differs from formal bit length 16 for port 'data_in_B'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_inst.v":134)
+Compiling module 'interleaver'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\interleaver.v":1)
+Compiling module 'i2s_rx'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_rx.v":1)
+Compiling module 'async_fifo(DATA_WIDTH=32,ADDR_WIDTH=8)'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\async_fifo.v":1)
+Compiling module 'async_fifo_ctrl(DATA_WIDTH=32,ADDR_WIDTH=8)'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\async_fifo_ctrl.v":1)
+Compiling module 'dpram(DATA_WIDTH=32,ADDR_WIDTH=8)'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\dpram.v":1)
+Extracting RAM for identifier 'ram'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\dpram.v":23)
+Compiling module 'i2s_tx'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_tx.v":1)
+Compiling module 'uart_pc'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_pc.v":104)
+Compiling module 'uart_rx(BAUD_RATE=2000000)'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_rx.v":1)
+Compiling module 'uart_tx(BAUD_RATE=2000000)'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_tx.v":1)
+Compiling module 'uart_test'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_test.v":1)
+Compiling module 'uart_rx'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_rx.v":1)
+Compiling module 'uart_tx'("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_tx.v":1)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 3("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":440)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":441)
+NOTE  (EX0101) : Current top module is "top"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input uart_rx_PC is unused("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v":15)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "uart_rx" instantiated to "uart_rx_inst" is swept in optimizing("C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_pc.v":181)
+[95%] Generate netlist file "C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\impl\gwsynthesis\sound_test.vg" completed
+[100%] Generate report file "C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\impl\gwsynthesis\sound_test_syn.rpt.html" completed
+GowinSynthesis finish

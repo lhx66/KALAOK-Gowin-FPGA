@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5A-25A" package="UBGA324" speed="2" partNumber="GW5A-LV25UG324C2/I1"/>
+    <FileList>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\I2C_Init_Dev.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\WM8960_Init.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\advanced_fir_filter\advanced_fir_filter.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\async_fifo.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\async_fifo_ctrl.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\chorus_ram\chorus_ram.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\dpram.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\echo.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer\equalizer.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_ne\equalizer_ne.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\equalizer_po\equalizer_po.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fft\fft.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_base.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\fir_inst.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\gowin_pll\gowin_pll.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\gowin_sdpb\gowin_sdpb.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2c_bit_shift.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2c_control.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_rx.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\i2s_tx.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\interleaver.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_eq.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\my_fft.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\reverb.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd2fifo\sd2fifo.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sd_reader.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sdcmd_ctrl.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\top.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_pc.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_rx.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_test.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\uart_tx.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\wav_read.v" type="verilog"/>
+        <File path="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\wm8960_init_table.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="enable_dsrm" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\impl\gwsynthesis\sound_test.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="top"/>
+        <Option type="vcc" value="0.9"/>
+        <Option type="vccx" value="3.3"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

@@ -1,0 +1,16 @@
+-d C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\impl\gwsynthesis\sound_test.vg
+-p GW5A-25A-UBGA324-2
+-pn GW5A-LV25UG324C2/I1
+-cst C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\src\sound_test.cst
+-cfg C:\Users\Administrator\Documents\WeChat Files\wxid_0obtcnxj2hpn12\FileStorage\File\2024-11\sound_test\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-route_option 1
+-correct_hold 1
+-route_maxfan 32
+-global_freq 100.000
+-enable_dsrm 0

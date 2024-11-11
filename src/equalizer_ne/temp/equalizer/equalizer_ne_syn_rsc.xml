@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Equalizer_Ne" Register="1931" Alu="166" Lut="3046" MULT12X12="4" MULT27X36="2" MULTADDALU12X12="1" Bsram="5"/>

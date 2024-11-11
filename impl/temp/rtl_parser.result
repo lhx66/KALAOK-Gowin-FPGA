@@ -1,0 +1,496 @@
+[
+ {
+  "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/advanced_fir_filter/advanced_fir_filter.v",
+  "InstLine" : 5412,
+  "InstName" : "Advanced_FIR_Filter_Top",
+  "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/advanced_fir_filter/advanced_fir_filter.v",
+  "ModuleLine" : 5412,
+  "ModuleName" : "Advanced_FIR_Filter_Top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/advanced_fir_filter/advanced_fir_filter.v",
+    "InstLine" : 5435,
+    "InstName" : "advanced_fir_filter_inst",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/advanced_fir_filter/advanced_fir_filter.v",
+    "ModuleLine" : 11,
+    "ModuleName" : "(advanced_fir_filter)/(Advanced_FIR_Filter_Top)"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/chorus_ram/chorus_ram.v",
+  "InstLine" : 10,
+  "InstName" : "chorus_ram",
+  "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/chorus_ram/chorus_ram.v",
+  "ModuleLine" : 10,
+  "ModuleName" : "chorus_ram"
+ },
+ {
+  "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer/equalizer.v",
+  "InstLine" : 14249,
+  "InstName" : "Equalizer_Top",
+  "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer/equalizer.v",
+  "ModuleLine" : 14249,
+  "ModuleName" : "Equalizer_Top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer/equalizer.v",
+    "InstLine" : 14276,
+    "InstName" : "Equalizer_inst",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer/equalizer.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "(Equalizer)/(Equalizer_Top)"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_fft.v",
+  "InstLine" : 1,
+  "InstName" : "my_fft",
+  "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_fft.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "my_fft",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_fft.v",
+    "InstLine" : 12,
+    "InstName" : "fft_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fft/fft.v",
+    "ModuleLine" : 172240,
+    "ModuleName" : "FFT_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fft/fft.v",
+      "InstLine" : 172275,
+      "InstName" : "fft_top_inst",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fft/fft.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~fft_top.FFT_Top"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 108,
+    "InstName" : "sd_reader_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd_reader.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "sd_reader",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd_reader.v",
+      "InstLine" : 100,
+      "InstName" : "u_sdcmd_ctrl",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sdcmd_ctrl.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "sdcmd_ctrl"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 127,
+    "InstName" : "wav_read_m0",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/wav_read.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "wav_read"
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 165,
+    "InstName" : "sd2fifo_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd2fifo/sd2fifo.v",
+    "ModuleLine" : 676,
+    "ModuleName" : "sd2fifo",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd2fifo/sd2fifo.v",
+      "InstLine" : 699,
+      "InstName" : "fifo_inst",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd2fifo/sd2fifo.v",
+      "ModuleLine" : 13,
+      "ModuleName" : "~fifo.sd2fifo"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 179,
+    "InstName" : "clk_12MHz_gen",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/gowin_pll/gowin_pll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLL"
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 186,
+    "InstName" : "WM8960_Init",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/WM8960_Init.v",
+    "ModuleLine" : 17,
+    "ModuleName" : "WM8960_Init",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/WM8960_Init.v",
+      "InstLine" : 56,
+      "InstName" : "I2C_Init_Dev",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/I2C_Init_Dev.v",
+      "ModuleLine" : 16,
+      "ModuleName" : "I2C_Init_Dev",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/I2C_Init_Dev.v",
+        "InstLine" : 108,
+        "InstName" : "wm8960_init_table",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/wm8960_init_table.v",
+        "ModuleLine" : 16,
+        "ModuleName" : "wm8960_init_table"
+       },
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/I2C_Init_Dev.v",
+        "InstLine" : 120,
+        "InstName" : "i2c_control",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2c_control.v",
+        "ModuleLine" : 16,
+        "ModuleName" : "i2c_control",
+        "SubInsts" : [
+         {
+          "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2c_control.v",
+          "InstLine" : 72,
+          "InstName" : "i2c_bit_shift",
+          "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2c_bit_shift.v",
+          "ModuleLine" : 16,
+          "ModuleName" : "i2c_bit_shift"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 232,
+    "InstName" : "my_echo_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/echo.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "my_echo",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/echo.v",
+      "InstLine" : 67,
+      "InstName" : "ECHO_BRAM",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/gowin_sdpb/gowin_sdpb.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "Gowin_SDPB"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 249,
+    "InstName" : "reverb_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/reverb.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Reverb"
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 268,
+    "InstName" : "my_eq_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_eq.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "my_eq",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_eq.v",
+      "InstLine" : 152,
+      "InstName" : "EQ_u0",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+      "ModuleLine" : 15992,
+      "ModuleName" : "Equalizer_Po",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+        "InstLine" : 16019,
+        "InstName" : "Equalizer_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+        "ModuleLine" : 10,
+        "ModuleName" : "(Equalizer)/(Equalizer_Po)"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_eq.v",
+      "InstLine" : 166,
+      "InstName" : "EQ_u1",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+      "ModuleLine" : 15992,
+      "ModuleName" : "Equalizer_Ne",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+        "InstLine" : 16019,
+        "InstName" : "Equalizer_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+        "ModuleLine" : 10,
+        "ModuleName" : "(Equalizer)/(Equalizer_Ne)"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_eq.v",
+      "InstLine" : 180,
+      "InstName" : "EQ_u2",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+      "ModuleLine" : 15992,
+      "ModuleName" : "Equalizer_Po",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+        "InstLine" : 16019,
+        "InstName" : "Equalizer_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+        "ModuleLine" : 10,
+        "ModuleName" : "(Equalizer)/(Equalizer_Po)"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_eq.v",
+      "InstLine" : 194,
+      "InstName" : "EQ_u3",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+      "ModuleLine" : 15992,
+      "ModuleName" : "Equalizer_Ne",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+        "InstLine" : 16019,
+        "InstName" : "Equalizer_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+        "ModuleLine" : 10,
+        "ModuleName" : "(Equalizer)/(Equalizer_Ne)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 297,
+    "InstName" : "FIR_Lowpass",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+    "ModuleLine" : 18,
+    "ModuleName" : "fir_inst",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 128,
+      "InstName" : "fir_inst_FIR_HALF_ORDER",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[1].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[2].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[3].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[4].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[5].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[6].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+      "InstLine" : 166,
+      "InstName" : "fir_base[7].fir_inst_NORMAL",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+      "ModuleLine" : 17,
+      "ModuleName" : "fir_base"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 309,
+    "InstName" : "interleaver_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/interleaver.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "interleaver"
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 349,
+    "InstName" : "i2s_rx",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2s_rx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "i2s_rx",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2s_rx.v",
+      "InstLine" : 124,
+      "InstName" : "adc_fifo",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "async_fifo",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+        "InstLine" : 56,
+        "InstName" : "async_fifo_ctrl_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo_ctrl.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "async_fifo_ctrl"
+       },
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+        "InstLine" : 83,
+        "InstName" : "dpram_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/dpram.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "dpram"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 365,
+    "InstName" : "i2s_tx",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2s_tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "i2s_tx",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2s_tx.v",
+      "InstLine" : 113,
+      "InstName" : "dac_fifo",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "async_fifo",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+        "InstLine" : 56,
+        "InstName" : "async_fifo_ctrl_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo_ctrl.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "async_fifo_ctrl"
+       },
+       {
+        "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+        "InstLine" : 83,
+        "InstName" : "dpram_inst",
+        "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/dpram.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "dpram"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 387,
+    "InstName" : "uart_pc_u1",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_pc.v",
+    "ModuleLine" : 104,
+    "ModuleName" : "uart_pc",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_pc.v",
+      "InstLine" : 173,
+      "InstName" : "uart_rx_inst",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_rx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_rx"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_pc.v",
+      "InstLine" : 188,
+      "InstName" : "uart_tx_inst",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_tx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_tx"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+    "InstLine" : 401,
+    "InstName" : "uart_debug",
+    "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_test.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_test",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_test.v",
+      "InstLine" : 103,
+      "InstName" : "uart_rx_inst",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_rx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_rx"
+     },
+     {
+      "InstFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_test.v",
+      "InstLine" : 117,
+      "InstName" : "uart_tx_inst",
+      "ModuleFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_tx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_tx"
+     }
+    ]
+   }
+  ]
+ }
+]

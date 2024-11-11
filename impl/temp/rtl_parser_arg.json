@@ -1,0 +1,149 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/I2C_Init_Dev.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/WM8960_Init.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/advanced_fir_filter/advanced_fir_filter.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/async_fifo_ctrl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/chorus_ram/chorus_ram.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/dpram.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/echo.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer/equalizer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_ne/equalizer_ne.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/equalizer_po/equalizer_po.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fft/fft.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_base.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/fir_inst.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/gowin_pll/gowin_pll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/gowin_sdpb/gowin_sdpb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2c_bit_shift.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2c_control.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2s_rx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/i2s_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/interleaver.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_eq.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/my_fft.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/reverb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd2fifo/sd2fifo.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sd_reader.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/sdcmd_ctrl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_pc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_rx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_test.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/uart_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/wav_read.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/src/wm8960_init_table.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Administrator/Documents/WeChat Files/wxid_0obtcnxj2hpn12/FileStorage/File/2024-11/sound_test/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

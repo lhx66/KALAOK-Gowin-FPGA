@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="289" Alu="13" Lut="171" T_Register="10080(289)" T_Alu="2149(13)" T_Lut="14450(171)" T_MULT12X12="16(0)" T_MULT27X36="8(0)" T_MULTADDALU12X12="4(0)" T_Bsram="46(0)">
+    <SubModule name="sd_reader_u1" Register="149" Lut="292" T_Register="299(149)" T_Alu="15(0)" T_Lut="480(292)">
+        <SubModule name="u_sdcmd_ctrl" Register="150" Alu="15" Lut="188" T_Register="150(150)" T_Alu="15(15)" T_Lut="188(188)"/>
+    </SubModule>
+    <SubModule name="wav_read_m0" Register="184" Alu="31" Lut="216" T_Register="184(184)" T_Alu="31(31)" T_Lut="216(216)"/>
+    <SubModule name="sd2fifo_u1" Register="89" Alu="21" Lut="97" Bsram="1" T_Register="89(89)" T_Alu="21(21)" T_Lut="97(97)" T_Bsram="1(1)"/>
+    <SubModule name="clk_12MHz_gen"/>
+    <SubModule name="WM8960_Init" Register="17" Alu="15" Lut="10" T_Register="88(17)" T_Alu="15(15)" T_Lut="191(10)">
+        <SubModule name="I2C_Init_Dev" Register="8" Lut="13" T_Register="71(8)" T_Lut="181(13)">
+            <SubModule name="wm8960_init_table" Register="15" Lut="15" T_Register="15(15)" T_Lut="15(15)"/>
+            <SubModule name="i2c_control" Register="25" Lut="68" T_Register="48(25)" T_Lut="153(68)">
+                <SubModule name="i2c_bit_shift" Register="23" Lut="85" T_Register="23(23)" T_Lut="85(85)"/>
+            </SubModule>
+        </SubModule>
+    </SubModule>
+    <SubModule name="my_echo_u1" Register="32" Alu="68" Lut="123" T_Register="40(32)" T_Alu="68(68)" T_Lut="210(123)" T_Bsram="23(0)">
+        <SubModule name="ECHO_BRAM" Register="8" Lut="87" Bsram="23" T_Register="8(8)" T_Lut="87(87)" T_Bsram="23(23)"/>
+    </SubModule>
+    <SubModule name="reverb_u1" Register="161" Alu="16" Lut="63" T_Register="161(161)" T_Alu="16(16)" T_Lut="63(63)"/>
+    <SubModule name="my_eq_u1" Register="15" Lut="108" T_Register="7735(15)" T_Alu="664(0)" T_Lut="12284(108)" T_MULT12X12="16(0)" T_MULT27X36="8(0)" T_MULTADDALU12X12="4(0)" T_Bsram="20(0)">
+        <SubModule name="EQ_u0" Register="1930" Alu="166" Lut="3044" MULT12X12="4" MULT27X36="2" MULTADDALU12X12="1" Bsram="5" T_Register="1930(1930)" T_Alu="166(166)" T_Lut="3044(3044)" T_MULT12X12="4(4)" T_MULT27X36="2(2)" T_MULTADDALU12X12="1(1)" T_Bsram="5(5)"/>
+        <SubModule name="EQ_u1" Register="1930" Alu="166" Lut="3044" MULT12X12="4" MULT27X36="2" MULTADDALU12X12="1" Bsram="5" T_Register="1930(1930)" T_Alu="166(166)" T_Lut="3044(3044)" T_MULT12X12="4(4)" T_MULT27X36="2(2)" T_MULTADDALU12X12="1(1)" T_Bsram="5(5)"/>
+        <SubModule name="EQ_u2" Register="1930" Alu="166" Lut="3044" MULT12X12="4" MULT27X36="2" MULTADDALU12X12="1" Bsram="5" T_Register="1930(1930)" T_Alu="166(166)" T_Lut="3044(3044)" T_MULT12X12="4(4)" T_MULT27X36="2(2)" T_MULTADDALU12X12="1(1)" T_Bsram="5(5)"/>
+        <SubModule name="EQ_u3" Register="1930" Alu="166" Lut="3044" MULT12X12="4" MULT27X36="2" MULTADDALU12X12="1" Bsram="5" T_Register="1930(1930)" T_Alu="166(166)" T_Lut="3044(3044)" T_MULT12X12="4(4)" T_MULT27X36="2(2)" T_MULTADDALU12X12="1(1)" T_Bsram="5(5)"/>
+    </SubModule>
+    <SubModule name="FIR_Lowpass" Register="531" Alu="180" T_Register="721(531)" T_Alu="1265(180)" T_Lut="231(0)">
+        <SubModule name="fir_inst_FIR_HALF_ORDER" Register="27" Alu="60" Lut="26" T_Register="27(27)" T_Alu="60(60)" T_Lut="26(26)"/>
+        <SubModule name="fir_base[1].fir_inst_NORMAL" Register="24" Alu="225" Lut="32" T_Register="24(24)" T_Alu="225(225)" T_Lut="32(32)"/>
+        <SubModule name="fir_base[2].fir_inst_NORMAL" Register="17" Alu="17" Lut="17" T_Register="17(17)" T_Alu="17(17)" T_Lut="17(17)"/>
+        <SubModule name="fir_base[3].fir_inst_NORMAL" Register="24" Alu="210" Lut="31" T_Register="24(24)" T_Alu="210(210)" T_Lut="31(31)"/>
+        <SubModule name="fir_base[4].fir_inst_NORMAL" Register="20" Alu="182" Lut="21" T_Register="20(20)" T_Alu="182(182)" T_Lut="21(21)"/>
+        <SubModule name="fir_base[5].fir_inst_NORMAL" Register="25" Alu="42" Lut="34" T_Register="25(25)" T_Alu="42(42)" T_Lut="34(34)"/>
+        <SubModule name="fir_base[6].fir_inst_NORMAL" Register="27" Alu="240" Lut="38" T_Register="27(27)" T_Alu="240(240)" T_Lut="38(38)"/>
+        <SubModule name="fir_base[7].fir_inst_NORMAL" Register="26" Alu="109" Lut="32" T_Register="26(26)" T_Alu="109(109)" T_Lut="32(32)"/>
+    </SubModule>
+    <SubModule name="interleaver_u1" Register="21" Lut="14" T_Register="21(21)" T_Lut="14(14)"/>
+    <SubModule name="i2s_rx" Register="43" Lut="46" T_Register="131(43)" T_Alu="16(0)" T_Lut="106(46)" T_Bsram="1(0)">
+        <SubModule name="adc_fifo" Register="13" T_Register="88(13)" T_Alu="16(0)" T_Lut="60(0)" T_Bsram="1(0)">
+            <SubModule name="async_fifo_ctrl_inst" Register="75" Alu="16" Lut="60" T_Register="75(75)" T_Alu="16(16)" T_Lut="60(60)"/>
+            <SubModule name="dpram_inst" Bsram="1" T_Bsram="1(1)"/>
+        </SubModule>
+    </SubModule>
+    <SubModule name="i2s_tx" Register="46" Lut="46" T_Register="153(46)" T_Alu="16(0)" T_Lut="106(46)" T_Bsram="1(0)">
+        <SubModule name="dac_fifo" Register="32" T_Register="107(32)" T_Alu="16(0)" T_Lut="60(0)" T_Bsram="1(0)">
+            <SubModule name="async_fifo_ctrl_inst" Register="75" Alu="16" Lut="60" T_Register="75(75)" T_Alu="16(16)" T_Lut="60(60)"/>
+            <SubModule name="dpram_inst" Bsram="1" T_Bsram="1(1)"/>
+        </SubModule>
+    </SubModule>
+    <SubModule name="uart_pc_u1" Register="18" Lut="14" T_Register="49(18)" T_Alu="3(0)" T_Lut="63(14)">
+        <SubModule name="uart_tx_inst" Register="31" Alu="3" Lut="49" T_Register="31(31)" T_Alu="3(3)" T_Lut="49(49)"/>
+    </SubModule>
+    <SubModule name="uart_debug" Register="47" Lut="107" T_Register="120(47)" T_Alu="6(0)" T_Lut="218(107)">
+        <SubModule name="uart_rx_inst" Register="41" Alu="3" Lut="60" T_Register="41(41)" T_Alu="3(3)" T_Lut="60(60)"/>
+        <SubModule name="uart_tx_inst" Register="32" Alu="3" Lut="51" T_Register="32(32)" T_Alu="3(3)" T_Lut="51(51)"/>
+    </SubModule>
+</Module>
